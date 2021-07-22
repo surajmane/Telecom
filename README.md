@@ -1,6 +1,6 @@
 # Telecom
-Exploratory analysis of telecom data
-What was discovered.
+Exploratory analysis of telecom data./n
+What was discovered/n
 Continuous variables are
 1. Total day minutes
 ● Average - 179.78
